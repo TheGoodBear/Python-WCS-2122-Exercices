@@ -1,0 +1,9 @@
+Lièvre,Marron,60,M
+Hérisson,Gris,30,M
+Lapin,Blanc,30,M
+Guépard,Orange,90,M
+Faucon,Noir,120,M
+Girafe,Jaune,70,F
+Vipère,Grise,30,F
+Perroquet,Bleu,50,M
+Chat,vert,75,M

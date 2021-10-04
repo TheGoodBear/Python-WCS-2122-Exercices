@@ -52,5 +52,6 @@ Animals = [
         "Gender" : "M"
     }
 ]
+
 Fastest = 0
 Slowest = 1000
