@@ -1,0 +1,24 @@
+Sujet
+
+Mettre les animaux ci-dessous dans une liste de dictionnaires
+Grâce à une boucle, afficher tous les animaux sous la forme:
+    “Le Lièvre marron court à 60km/h”
+Si l’animal en question est le plus rapide, ajouter “et c’est lui le plus rapide”
+Si l’animal en question est le plus lent, ajouter “et c’est lui le plus lent”
+
+Animaux
+Lièvre, marron, 60
+Hérisson, gris, 10
+Lapin, blanc, 30
+Guépard, orange, 90
+Faucon, noir, 120
+Girafe, jaune, 70
+Perroquet, bleu, 50
+
+
+Pour aller plus loin 
+
+Simuler une course avec les animaux au départ (demander la longueur de la course)
+Faire passer une heure à chaque tour et avancer les animaux en conséquence (afficher la distance parcourue pour chacun)
+Quand un animal franchi la ligne d’arrivée, lui attribuer un numéro d’arrivée et ne plus le faire avancer
+Quand tous les animaux sont arrivés, terminer la course en annonçant le gagnant (“Faucon noir à gagné en … heures”)
