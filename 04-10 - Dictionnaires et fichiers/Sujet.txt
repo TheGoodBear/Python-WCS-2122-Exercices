@@ -1,0 +1,18 @@
+Sujet
+
+Créer un petit programme qui affiche un menu avec les actions suivantes :
+- Ajouter une personne (nom, prénom, âge, sexe, score)
+- Supprimer une personne
+- Ajouter des points (entre 1 et 100) au score d’une personne
+- Afficher la liste des personnes (triée nom/prénom ou âge/nom/prénom ou score/nom/prénom) au choix de l’utilisateur
+- Sauvegarde la liste des personnes (au format CSV) en demandant à l’utilisateur le nom du fichier à utiliser, les fichiers doivent être sauvegardés dans un dossier nommé Data
+- Charger la liste des personnes depuis un fichier (afficher la liste de tous les fichiers disponibles avec un numéro associé puis demander à l’utilisateur de saisir le numéro du fichier souhaité)
+
+A noter :
+
+Tu dois :
+- Gérer toutes les erreurs possibles (saisie de données, lecture/écriture des fichiers)
+- Afficher des messages explicites pour chaque action effectuée
+- Rendre l’interface utilisateur un minimum agréable
+
+SortedPlayers = sorted(Var.Players, key=lambda k: k['LastName'])    

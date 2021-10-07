@@ -99,7 +99,7 @@ def SaveToTextFile():
     """
 
     # open new file MyFile in write mode
-    with open("Animals.txt", "w", encoding="utf-8") as MyFile:
+    with open("01-10 - Dictionnaires/Animals.txt", "w", encoding="utf-8") as MyFile:
         # for each animal il list
         for Animal in Var.Animals:
             # create temporary list of animal data
@@ -122,7 +122,7 @@ def LoadFromTextFile():
     Var.Animals = []
 
     # open file MyFile in read mode
-    with open("Animals.txt", "r", encoding="utf-8") as MyFile:
+    with open("01-10 - Dictionnaires/Animals.txt", "r", encoding="utf-8") as MyFile:
         # load each file line in AnimalList list
         AnimalList = MyFile.readlines()
         # for each Animal in list
